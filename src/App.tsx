@@ -141,7 +141,7 @@ export default function App() {
                   className="w-5 h-5 rounded border-zinc-700 bg-zinc-900 text-white focus:ring-white/20 focus:ring-offset-zinc-950 cursor-pointer"
                 />
                 <label htmlFor="agree" className="ml-3 text-sm text-zinc-300 select-none cursor-pointer">
-                  Do u agree?
+                  do u agree to the griefing rules?
                 </label>
               </div>
               
