@@ -1,0 +1,5 @@
+{
+  "name": "QLTZ Dashboard",
+  "description": "A dashboard to submit Discord and Roblox user information.",
+  "requestFramePermissions": []
+}
